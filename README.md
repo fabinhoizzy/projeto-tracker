@@ -1,5 +1,11 @@
 # projeto-tracker
 
+Essa aplicação foi desenvolvida para marcar o tempo de uma tarefa
+
+## Tecnologias
+
+Essa aplicação está sendo desenvolvida em VueJs como parte de um aprendizado.
+
 ## Project setup
 ```
 npm install
